@@ -16,8 +16,7 @@ $(document).ready(function(){
     //window.myCodeMirror.on('keyup', editor => {   
     //});
 
-    const code=`
-    <!DOCTYPE HTML>
+    const code=`<!DOCTYPE HTML>
     <style>
         #balloon {
             width:200px;
